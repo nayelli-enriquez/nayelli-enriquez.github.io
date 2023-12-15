@@ -4,8 +4,8 @@
 
 ### Cosmic Quest Adventure Game 
 
-[Project 1 Title](/sample_page)
-<img src="images/cosmicquest1.png?raw=true"/>
+
+<img src="/assets/images/cosmicquest1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
