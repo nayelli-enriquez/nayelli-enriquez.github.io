@@ -9,8 +9,12 @@
 <img src="images/cosmicquest2.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Castle Mystery Adventure Game
+
+
+<img src="images/castlemystery1.PNG?raw=true"/>
+<img src="images/castlemystery2.PNG?raw=true"/>
+<img src="images/castlemystery3.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -18,15 +22,14 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Trivia Quest
+<img src="images/trivia quest.jpg?raw=true"/>
 
 ---
+
+### Adopt A Virutal Pet
+
+<img src="images/virtualpet.jpg?raw=true"/>
 
 
 
