@@ -16,20 +16,16 @@
 <img src="images/castlemystery2.PNG?raw=true"/>
 <img src="images/castlemystery3.PNG?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Trivia Quest
-<img src="images/trivia quest.jpg?raw=true"/>
+<img src="images/trivia quest.PNG?raw=true"/>
 
 ---
 
 ### Adopt A Virutal Pet
 
-<img src="images/virtualpet.jpg?raw=true"/>
+<img src="images/virtualpet.PNG?raw=true"/>
 
 
 
