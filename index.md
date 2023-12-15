@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Cosmic Quest Adventure Game 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cosmicquest1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
