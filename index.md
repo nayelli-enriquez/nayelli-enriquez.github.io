@@ -3,7 +3,7 @@
 ---
 
 ### Cosmic Quest Adventure Game 
-- A simple C# game where the player is tasked with visiting planets, speaking to NPCs and collecting items. Includes background music played in a loop.
+**A simple C# game where the player is tasked with visiting planets, speaking to NPCs and collecting items. Includes background music played in a loop.**
 
 <img src="images/cosmicquest1.PNG?raw=true"/>
 <img src="images/cosmicquest2.PNG?raw=true"/>
